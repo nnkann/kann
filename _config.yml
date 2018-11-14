@@ -1,3 +1,5 @@
+remote_theme : mmistakes/minimal-mistakes
+
 title:            nnkann
 description:      kann's blog
 disqus_shortname: 
@@ -8,7 +10,6 @@ words_per_minute: 200
 url: "https://nnkann.github.io"
 baseurl : 
 
-remote_theme : mmistakes/minimal-mistakes
 # Owner/author information
 owner:
   name:           nnkann
