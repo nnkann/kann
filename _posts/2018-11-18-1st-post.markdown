@@ -10,6 +10,8 @@ categories: Life programming
 
 *Lorem ipsum dolor sit amet*, _consectetur adipisicing elit_, __sed do eiusmod tempor__ **incididunt ut labore et dolore magna aliqua.** Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
+![Alt text](https://lh3.googleusercontent.com/D0RbBOEHKLYyO3vvjRqYjKzHMbl8PAJBSFwPfDkAcNOWH720Vy1ALEYRw7KFMWO626M-ADDAnZVspVYe3fhJt56WnSPeV_tYyaqRE2SlNdpal14f8rzOTN-vZ2zOy5YtLPBWf6JOinepdCsnsfBC5MA3Q91qoCCHBsRooQbUFRYibRPK2-VHf7r4EgniI7VLEjjb211jl4auKAXOr7r7Q6WbUxXasidg_txAzgtRmHAs3_Kb26nYN0NWs-ikSoAxjsFvZACGQ9hIROwhTOPcpUzov40FMeS8YnMS04nLqYDN7YIJ5dm3n6HojIK1aWPjf6458ZFHv73VJtrAEKGgBhE1ySRx3cg-6STpBeBI4-Y2SBR88ev1h1s8N7Erl3mt8E2XiVWFEIn4xSFc3gkNHQtZ_9QMciIjUNlzlEoOMIR3oaipVWVBEwi0ez39qEUMktGwz-AU7dE17oha6EsN1xYAMo_M-tOmR1mwhbaNzQn3YGYFx_oCV5k_DjjB4iIUKeGvv-IGFi5-mxhsYx_ccpYEa5CRSSWCz8V7DDHptW6G3sTMmsOVK5i6SLwfwp1wvT5PXn-Srw93LtHktgN6wBYGCYrWWga6drcBd4VCPnh5qdDWc77rhFwMEtS6wBQqqnw4WSoXWHBU9Vo91kUHAbc8=w840-h1119-no)
+
 *single asterisks*
 _single underscores_
 **double asterisks**
